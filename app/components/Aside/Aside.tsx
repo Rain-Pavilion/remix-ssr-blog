@@ -105,8 +105,8 @@ const Aside: React.FC<{ context?: GlobalContext }> = (props) => {
       <div className='absolute bottom-0 w-full bg-#fff border-0 border-r-1 border-solid border-#ebedf0'>
         <Divider className='!my-0' />
         Theme design by{' '}
-        <a target='_blank' rel='noreferrer noopener' href='https://github.com/alvin0216/remix-ssr-blog'>
-          Alvin
+        <a target='_blank' rel='noreferrer noopener' href='https://github.com/Rain-Pavilion/remix-ssr-blog'>
+          雨亭
         </a>
       </div>
     </aside>

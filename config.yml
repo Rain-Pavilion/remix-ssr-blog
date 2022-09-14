@@ -1,27 +1,27 @@
 # github 登录名，唯一标识是不是 master [博主 github 登录名]
-githubLoginName: alvin0216
+githubLoginName: Rain-Pavilion
 
 # 博客logo
 # blogLogo: /logo.png
 blogLogo: https://alvin-cdn.oss-cn-shenzhen.aliyuncs.com/images/logo.png
 
 # 博客名称
-blogName: Peace and Love
+blogName: 雨亭的博客
 
 # 侧边栏
 # avatar: /avatar.png
 avatar: https://alvin-cdn.oss-cn-shenzhen.aliyuncs.com/images/avatar.png
 
 # 侧边栏 图片下面的别名
-asideName: Alvin
+asideName: 雨亭
 
 # 座右铭
-motto: Web Developer & Designer
+motto: 细雨破损，亭中饮茶。
 
 # 社交平台 github icon 内置
 social:
   github:
-    link: https://github.com/alvin0216
+    link: https://github.com/Rain-Pavilion
     icon: https://alvin-cdn.oss-cn-shenzhen.aliyuncs.com/images/github.png
   juejin:
     link: https://juejin.im/user/5acac6c4f265da2378408f92
@@ -39,7 +39,7 @@ donate:
 # seo 相关
 seo:
   # 标题 可以不填, 不填的话取 blogName
-  title: Alvin's blog
+  title: 雨亭的博客
   # 作者
   author: alvin
   # 用于告诉搜索引擎，你网页的关键字

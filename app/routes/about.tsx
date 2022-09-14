@@ -38,11 +38,11 @@ const AboutPage: React.FC = (props) => {
       <h3>简述</h3>
       <p>
         项目地址{' '}
-        <a target='_blank' href='https://github.com/alvin0216/remix-ssr-blog'>
+        <a target='_blank' href='https://github.com/Rain-Pavilion/remix-ssr-blog'>
           remix-ssr-blog
         </a>
         ， 延承主题{' '}
-        <a target='_blank' href='https://github.com/alvin0216/react-blog'>
+        <a target='_blank' href='https://github.com/Rain-Pavilion/react-blog'>
           spa 版本 react-blog
         </a>{' '}
         <img src='https://img.shields.io/github/stars/alvin0216/react-blog.svg' />，
