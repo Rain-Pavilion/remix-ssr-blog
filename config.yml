@@ -39,7 +39,7 @@ donate:
 # seo 相关
 seo:
   # 标题 可以不填, 不填的话取 blogName
-  title: 雨亭
+  title: 雨亭技术学习与知识记录
   # 作者
   author: alvin
   # 用于告诉搜索引擎，你网页的关键字
