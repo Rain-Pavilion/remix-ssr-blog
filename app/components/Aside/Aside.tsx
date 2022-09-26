@@ -103,7 +103,7 @@ const Aside: React.FC<{ context?: GlobalContext }> = (props) => {
 
       <div className='absolute bottom-0 w-full bg-#fff border-0 border-r-1 border-solid border-#ebedf0'>
         <Divider className='!my-0' />
-        <a target='_blank' rel='noreferrer noopener' href='https://tsm.miit.gov.cn/dxxzsp/'>
+        <a target='_blank' rel='noreferrer noopener' href='https://beian.miit.gov.cn/'>
           浙ICP备2022026108号
         </a>
       </div>
