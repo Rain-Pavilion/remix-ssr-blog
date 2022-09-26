@@ -6,7 +6,7 @@ githubLoginName: Rain-Pavilion
 blogLogo: https://alvin-cdn.oss-cn-shenzhen.aliyuncs.com/images/logo.png
 
 # 博客名称
-blogName: 雨亭的博客
+blogName: 雨亭
 
 # 侧边栏
 # avatar: /avatar.png
@@ -16,7 +16,7 @@ avatar: https://alvin-cdn.oss-cn-shenzhen.aliyuncs.com/images/avatar.png
 asideName: 雨亭
 
 # 座右铭
-motto: 细雨破损，亭中饮茶。
+motto: 细雨婆娑，亭中饮茶。
 
 # 社交平台 github icon 内置
 social:
@@ -39,7 +39,7 @@ donate:
 # seo 相关
 seo:
   # 标题 可以不填, 不填的话取 blogName
-  title: 雨亭的博客
+  title: 雨亭
   # 作者
   author: alvin
   # 用于告诉搜索引擎，你网页的关键字

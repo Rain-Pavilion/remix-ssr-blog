@@ -87,7 +87,6 @@ const Aside: React.FC<{ context?: GlobalContext }> = (props) => {
                 </thead>
                 <tbody>
                   <tr>
-                    {' '}
                     {Object.keys(config.donate || {}).map((key, idx) => (
                       <td key={idx} className='border-solid border-1px border-light-800'>
                         <img alt='donate' src={config.donate[key]} className='w-160px h-160px' />
@@ -104,9 +103,8 @@ const Aside: React.FC<{ context?: GlobalContext }> = (props) => {
 
       <div className='absolute bottom-0 w-full bg-#fff border-0 border-r-1 border-solid border-#ebedf0'>
         <Divider className='!my-0' />
-        Theme design by{' '}
-        <a target='_blank' rel='noreferrer noopener' href='https://github.com/Rain-Pavilion/remix-ssr-blog'>
-          雨亭
+        <a target='_blank' rel='noreferrer noopener' href='https://tsm.miit.gov.cn/dxxzsp/'>
+          浙ICP备2022026108号
         </a>
       </div>
     </aside>
