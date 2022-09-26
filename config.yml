@@ -10,7 +10,7 @@ blogName: 雨亭
 
 # 侧边栏
 # avatar: /avatar.png
-avatar: https://alvin-cdn.oss-cn-shenzhen.aliyuncs.com/images/avatar.png
+avatar: https://avatars.githubusercontent.com/u/52399183?v=4
 
 # 侧边栏 图片下面的别名
 asideName: 雨亭
@@ -33,8 +33,8 @@ donateWord: 如果你觉得主题还不错，可以为作者贡献一杯奶茶�
 donate:
   # AliPay: /alipay.png
   # WeChat: /wechat.png
-  AliPay: https://alvin-cdn.oss-cn-shenzhen.aliyuncs.com/images/alipay.png
-  WeChat: https://alvin-cdn.oss-cn-shenzhen.aliyuncs.com/images/wechat.png
+  AliPay: https://Rain-Pavilion.github.io/resources/images/alipay.jpeg
+  WeChat: https://Rain-Pavilion.github.io/resources/images/wxpay.jpeg
 
 # seo 相关
 seo:
