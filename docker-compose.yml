@@ -1,0 +1,13 @@
+version: '3'
+services:
+  remix-ssr-blog:
+    image: ssr-blog
+    ports:
+      - "3333:3333"
+    volumes:
+      - /home/www/remix-ssr-blog:/usr/src/app
+    environment:
+      - DB_HOST=host.docker.internal  # 使用宿主本机mysql
+      - DB_USER=root
+      - DB_PASSWORD=aa562230
+      - DB_NAME=information_schema
